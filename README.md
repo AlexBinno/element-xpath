@@ -1,6 +1,6 @@
 # element-xpath
 
-Javascript library and jQuery plugin for determining the X path of an HTML DOM element.
+Javascript library and jQuery plugin for determining the XPath of an HTML DOM element.
 
 ## Usage with jQuery (jquery.element-xpath.js)
 
